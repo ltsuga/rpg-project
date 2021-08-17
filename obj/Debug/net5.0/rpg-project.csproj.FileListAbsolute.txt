@@ -1,0 +1,16 @@
+D:\DIO\Artigos\Nova pasta\rpg-project\bin\Debug\net5.0\rpg-project.exe
+D:\DIO\Artigos\Nova pasta\rpg-project\bin\Debug\net5.0\rpg-project.deps.json
+D:\DIO\Artigos\Nova pasta\rpg-project\bin\Debug\net5.0\rpg-project.runtimeconfig.json
+D:\DIO\Artigos\Nova pasta\rpg-project\bin\Debug\net5.0\rpg-project.runtimeconfig.dev.json
+D:\DIO\Artigos\Nova pasta\rpg-project\bin\Debug\net5.0\rpg-project.dll
+D:\DIO\Artigos\Nova pasta\rpg-project\bin\Debug\net5.0\ref\rpg-project.dll
+D:\DIO\Artigos\Nova pasta\rpg-project\bin\Debug\net5.0\rpg-project.pdb
+D:\DIO\Artigos\Nova pasta\rpg-project\obj\Debug\net5.0\rpg-project.csproj.AssemblyReference.cache
+D:\DIO\Artigos\Nova pasta\rpg-project\obj\Debug\net5.0\rpg-project.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIO\Artigos\Nova pasta\rpg-project\obj\Debug\net5.0\rpg-project.AssemblyInfoInputs.cache
+D:\DIO\Artigos\Nova pasta\rpg-project\obj\Debug\net5.0\rpg-project.AssemblyInfo.cs
+D:\DIO\Artigos\Nova pasta\rpg-project\obj\Debug\net5.0\rpg-project.csproj.CoreCompileInputs.cache
+D:\DIO\Artigos\Nova pasta\rpg-project\obj\Debug\net5.0\rpg-project.dll
+D:\DIO\Artigos\Nova pasta\rpg-project\obj\Debug\net5.0\ref\rpg-project.dll
+D:\DIO\Artigos\Nova pasta\rpg-project\obj\Debug\net5.0\rpg-project.pdb
+D:\DIO\Artigos\Nova pasta\rpg-project\obj\Debug\net5.0\rpg-project.genruntimeconfig.cache
